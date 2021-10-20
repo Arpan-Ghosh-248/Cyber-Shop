@@ -24,7 +24,7 @@ const Index = () => {
           <p className="one">A NEW TV EXPERIENCE AWAKENS</p>
           <p className="two">BRAVIA</p>
           <p className="three">OLED</p>
-          <p>{products}</p>
+         
         </div>
       </section>
 
